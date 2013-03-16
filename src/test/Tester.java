@@ -12,6 +12,8 @@ public class Tester {
 		
 		DansTest nextTest = new DansTest("hello people dans test");
 		System.out.println(nextTest.getWords());
+		DansTest petchTest = new DansTest("hello people petchs test");
+		System.out.println(petchTest.getWords());
 	}
 
 }
