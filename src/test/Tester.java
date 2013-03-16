@@ -9,6 +9,7 @@ public class Tester {
 		// TODO Auto-generated method stub
 		HelloWorld hi = new HelloWorld ();
 		System.out.println(hi.getHello("Jedi's!!"));
+		System.out.println(hi.getHello("Jedi's!!"));
 	}
 
 }
